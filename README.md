@@ -1,4 +1,4 @@
-# magica-domain.github.io
-Public Domain of Magica repository used as storage for the game server
+# The-Return-of-Shadows.github.io
 
-In here you will find all the music/sound files used in the game
+Public The Return of Shadows repository used as storage for the game server
+
